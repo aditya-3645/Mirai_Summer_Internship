@@ -2,16 +2,16 @@
 
 ## Interface
 
-![Interface](Assignment_1/Interface.png)
+![Interface](Interface.png)
 
 ## Missing Name
 
-![Name Missing](Assignment_1/Name_missing.png)
+![Name Missing](Name_missing.png)
 
 ## Missing Message
 
-![Message Missing](Assignment_1/Message_missing.png)
+![Message Missing](Message_missing.png)
 
 ## Successful Transmission
 
-![Success](Assignment_1/Succes.png)
+![Success](Succes.png)
