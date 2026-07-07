@@ -14,4 +14,4 @@
 
 ## Successful Transmission
 
-![Success](Succes.png)
+![Success](Success.png)
